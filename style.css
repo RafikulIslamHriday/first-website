@@ -7,7 +7,7 @@
 /* header part */
 
 .header{
-    background-image: url("/images/banner/banner3.png");
+    background-image: url("images/banner/banner3.png");
     width: 1600;
     height: 808px;
     background-repeat:no-repeat ;
@@ -94,7 +94,7 @@
     color: #444343;
 }
 .failuer-li li{
-    list-style-image: url("/images//icons/download.png");
+    list-style-image: url("images//icons/download.png");
     list-style-position: inside;
     padding: 5px 0;
     color: #444343;
@@ -184,7 +184,7 @@ hr{
     width: 1072px;
     height: 300px;
     border-radius: 5px;
-    background-image: linear-gradient(to right, rgb(19, 70, 180), rgb(19, 70, 180 ,0)), url("/images/watch.png");
+    background-image: linear-gradient(to right, rgb(19, 70, 180), rgb(19, 70, 180 ,0)), url("images/watch.png");
     margin: 50px auto;
     margin: 100px auto;
 }
